@@ -10,7 +10,6 @@ I am a research scientist in climate modeling, working at the Center for Ocean, 
 
 **Secondary research interests** include:
 
-
-* anthropogenic carbon emission scenarios, which are crucial determinants of long-term climate change.  
-* climate services, i.e. the practical interaction of climate science with society.
-* paleoclimate/carbon cycle interactions, particularly tectonically-driven interactions around the time of Antarctic ice sheet inception.
+- anthropogenic carbon emission scenarios, which are crucial determinants of long-term climate change.  
+- climate services, i.e. the practical interaction of climate science with society.
+- paleoclimate/carbon cycle interactions, particularly tectonically-driven interactions around the time of Antarctic ice sheet inception.
