@@ -9,6 +9,8 @@ I am a research scientist in climate modeling, working at the Center for Ocean, 
 **My primary research focus** is the coupled ice-sheet/climate system, which today includes the Antarctic and Greenland ice sheets.  The primary question I am helping to answer is: how will future sea level change due to human forced ice sheet loss?  Answering this involves  understanding the coupling between atmosphere, oceans, land surface, biology, carbon cycle and human society, and simulation of this coupling within comprehensive Earth System models.
 
 **Secondary research interests** include:
+
+
 * anthropogenic carbon emission scenarios, which are crucial determinants of long-term climate change.  
 * climate services, i.e. the practical interaction of climate science with society.
-* paleoclimate/carbon cycle interactions:, particularly tectonically-driven interactions around the time of Antarctic ice sheet inception.
+* paleoclimate/carbon cycle interactions, particularly tectonically-driven interactions around the time of Antarctic ice sheet inception.
