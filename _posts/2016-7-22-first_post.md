@@ -3,4 +3,4 @@ layout: post
 title: New site
 ---
 
-Welcome to my new site!  Excited to learn to build a githib-based website with Jekyll.
+Welcome to my new virtual location!  Excited to learn to build a Github-based website with Jekyll.

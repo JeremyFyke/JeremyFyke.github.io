@@ -8,6 +8,3 @@ I am a research scientist in climate modeling, working at the Center for Ocean, 
 
 My interests are primarily in modeling the coupled ice-sheet/climate system, which today includes the Antarctic and Greenland ice sheets.  The primary question I am helping to answer is: how will future sea level change due to human forced ice sheet loss?  This involves a comprehensive understanding of the coupling between atmosphere, oceans, land surface, biology, carbon cycle and human society.
 
-### Contact me
-
-[fyke@lanl.gov](mailto:fyke@lanl.gov)
