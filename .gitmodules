@@ -1,6 +1,0 @@
-[submodule "writing-latex"]
-	path = writing-latex
-	url = git@bitbucket.org:jeremyfyke/writing-latex.git
-[submodule "_bibliography"]
-	path = _bibliography
-	url = git@bitbucket.org:jeremyfyke/writing-latex.git
