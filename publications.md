@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+##2016
+
 Lenaerts, J., Vizcaino, M., **Fyke, J.G.** et al.  [Present-day and future Antarctic ice sheet climate and surface mass balance in the Community Earth System Model](http://link.springer.com/article/10.1007\%2Fs00382-015-2907-4).  Climate Dynamics, 2016.
 
 **Fyke, J.G.** and H.D. Matthews.  [A probabilistic analysis of cumulative carbon emissions and long-term planetary warming](http://iopscience.iop.org/article/10.1088/1748-9326/10/11/115007/meta;jsessionid=BC5258137ABA9D8AB2E919C26E22FC9B.c1.iopscience.cld.iop.org).  Environmental Research Letters, 2015 [Los Alamos National Laboratory News Release](https://www.youtube.com/watch?v=_dpwSC7Ru60), featured on [phys.org](phys.org)).
