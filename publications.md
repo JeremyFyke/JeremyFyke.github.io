@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+## Climate service analyses
+
+**Fyke, J.G.**.  21st Century Climate Change Over the Chama Peak Land Alliance Region.  Prepared for the Chama Peak Land Alliance, 2016.
+
+**Fyke, J.G.**.  Climate trends over British Columbia ski hills: future changes to total snowfall.  Prepared for the Canada West Ski Area Association, 2013.
+
 ## In preparation/review
 
 **Fyke, J.G.** et al. Quantifying a cumulative carbon-based threshold on Greenland Ice Sheet stability.
