@@ -12,6 +12,8 @@ permalink: /publications/
 
 ## In preparation/review
 
+**Fyke, J.G.** et al.  *Progress and Challenges in coupling ice sheets to climate models*.
+
 **Fyke, J.G.** et al. *Quantifying a cumulative carbon-based threshold on Greenland Ice Sheet stability*.
 
 **Fyke, J.G.** et al.  *Coupling of the Community Ice Sheet Model to the Community Earth System Model (Part 1): model description*. 
