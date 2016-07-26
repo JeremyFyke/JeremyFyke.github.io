@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Please contact me for PDF copies if required.
+
 ## Climate service analyses
 
 **Fyke, J.G.**.  *21st Century Climate Change Over the Chama Peak Land Alliance Region*.  Prepared for the Chama Peak Land Alliance, 2016.
