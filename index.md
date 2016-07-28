@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+
+![Painting: Zaria Forman]({{ site.url }}/images/150728-zaria-forman-07.jpg)
+<p style="text-align: center;"> <em><a href="http://www.zariaforman.com/">Zaria Forman</a>, Greenland no. 71, 2014</em> </p>
+
 **News**
 
 {% for post in site.posts %}
