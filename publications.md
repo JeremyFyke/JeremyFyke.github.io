@@ -48,23 +48,23 @@ Lipscomb, W.H., **J.G. Fyke**, et al.  *[Implementation and initial evaluation o
 
 ## 2012
 
-**Fyke, J.G.** and M. Eby.  *[Comment on: Climate Sensitivity Estimated from Temperature Reconstructions of the Last Glacial Maximum](http://science.sciencemag.org/content/337/6100/1294.2)*.  Science, 2012 (cited in [IPCC AR5](https://www.ipcc.ch/report/ar5/wg1/).
+**Fyke, J.G.** and M. Eby.  *[Comment on: Climate Sensitivity Estimated from Temperature Reconstructions of the Last Glacial Maximum](http://science.sciencemag.org/content/337/6100/1294.2)*.  Science, 2012 (cited in [IPCC AR5](https://www.ipcc.ch/report/ar5/wg1/)).
 
 ## 2011
 
 **Fyke, J.G.**.  *[Simulation of the global coupled climate/ice sheet system over millennial timescales](http://researcharchive.vuw.ac.nz/xmlui/handle/10063/1932)*.  PhD Thesis, Victoria University of Wellington, New Zealand.
 
-**Fyke, J.G.**, L. Carter, A. Mackintosh, A.J. Weaver, M. Eby and D. Pollard.  *[A new coupled ice sheet-climate model: description and sensitivity to model physics under Eemian, Last Glacial Maximum, late Holocene and modern climate conditions](http://www.geosci-model-dev.net/4/117/2011/)*.  Geoscientific Model Development, 2011 (cited in [IPCC AR5](https://www.ipcc.ch/report/ar5/wg1/).
+**Fyke, J.G.**, L. Carter, A. Mackintosh, A.J. Weaver, M. Eby and D. Pollard.  *[A new coupled ice sheet-climate model: description and sensitivity to model physics under Eemian, Last Glacial Maximum, late Holocene and modern climate conditions](http://www.geosci-model-dev.net/4/117/2011/)*.  Geoscientific Model Development, 2011 (cited in [IPCC AR5](https://www.ipcc.ch/report/ar5/wg1/)).
 
 ## 2010
 
-**Fyke, J.G.**, L. Carter, A. Mackintosh, A.J. Weaver and K.J. Meissner.  *[Surface melting over ice shelves and ice sheets as assessed from modelled surface air temperatures](http://journals.ametsoc.org/doi/abs/10.1175/2009JCLI3122.1)*.  Journal of Climate, 2010 (cited in [IPCC AR5](https://www.ipcc.ch/report/ar5/wg1/).
+**Fyke, J.G.**, L. Carter, A. Mackintosh, A.J. Weaver and K.J. Meissner.  *[Surface melting over ice shelves and ice sheets as assessed from modelled surface air temperatures](http://journals.ametsoc.org/doi/abs/10.1175/2009JCLI3122.1)*.  Journal of Climate, 2010 (cited in [IPCC AR5](https://www.ipcc.ch/report/ar5/wg1/)).
 
 ## 2006
 
 **Fyke, J.G.**.  *[Effect of climate change on the marine methane hydrate stability zone](https://dspace.library.uvic.ca/handle/1828/1851)*.  MSc Thesis, University of Victoria, Canada.
 
-**Fyke, J.G.**, and A.J. Weaver.  *[The effect of potential future climate change on the marine methane hydrate stability zone](http://journals.ametsoc.org/doi/abs/10.1175/JCLI3894.1)*.  Journal of Climate, 2006 (cited in [IPCC AR5](https://www.ipcc.ch/report/ar5/wg1/).
+**Fyke, J.G.**, and A.J. Weaver.  *[The effect of potential future climate change on the marine methane hydrate stability zone](http://journals.ametsoc.org/doi/abs/10.1175/JCLI3894.1)*.  Journal of Climate, 2006 (cited in [IPCC AR5](https://www.ipcc.ch/report/ar5/wg1/)).
 
 
 
