@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<a href="https://twitter.com/FykeJeremy" class="twitter-follow-button" data-show-count="false">Follow @FykeJeremy</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a class="twitter-timeline" href="https://twitter.com/FykeJeremy">News</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![Painting: Zaria Forman]({{ site.url }}/images/150728-zaria-forman-07.jpg)
