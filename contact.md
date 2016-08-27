@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Google Earth]({{ site.url }}/images/google-earth-view-6473.jpg)
+![Google Earth]({{ site.url }}/images/google-earth-view-6473_trimmed.jpg)
 
 ## Email
 
