@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+![Google Earth]({{ site.url }}/images/google-earth-view-6473_trimmed2.jpg)
+
 Please contact me for PDF copies if required.
 
 ## Climate service analyses
