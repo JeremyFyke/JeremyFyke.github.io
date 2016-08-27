@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Contact
+permalink: /contact/
 ---
 
 ![Google Earth]({{ site.url }}/images/google-earth-view-6473_trimmed.jpg)
