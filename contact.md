@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+![Google Earth]({{ site.url }}/images/google-earth-view-6473.jpg)
+
 ## Email
 
 fyke -at- lanl.gov
