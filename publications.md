@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-![Google Earth]({{ site.url }}/images/google-earth-view-6473_trimmed2.jpg)
+![Google Earth]({{ site.url }}/images/google-earth-view-6473_trimmed_2.jpg)
 
 Please contact me for PDF copies if required.
 
