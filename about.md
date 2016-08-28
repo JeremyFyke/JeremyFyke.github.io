@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Google Earth]({{ site.url }}/images/google-earth-view-1645.jpg)
+![Google Earth]({{ site.url }}/images/1000211.rink_glacier.jpg)
 
 **I am a research scientist in climate modeling** working at the Center for Ocean, Sea Ice and Land Ice Modeling, in the Theoretical Division of [Los Alamos National Laboratory](http://lanl.gov/), Los Alamos, New Mexico.  I'm involved in development and use of the [Community Earth System Model](http://www2.cesm.ucar.edu/) (CESM), the [Accelerated Climate Model for Energy](http://climatemodeling.science.energy.gov/projects/accelerated-climate-modeling-energy) (ACME), the [University Earth System Model](http://climate.uvic.ca/model/) (UVic ESCM) and the [Cumulative Emissions Projection Model](https://github.com/JeremyFyke/CEPM) (CEPM).  I am Topical Editor at [Geoscientific Model Development](http://www.geoscientific-model-development.net/) and Scientific Liaison for the CESM [Land Ice Working Group](http://www2.cesm.ucar.edu/working-groups/liwg).  
 
