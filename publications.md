@@ -10,7 +10,7 @@ Please contact me for PDF copies if required.
 
 ## In preparation/review
 
-**Fyke, J.G.** et al.  *Progress and Challenges in coupling ice sheets to climate models*.
+**Fyke, J.G.** et al.  *Ice-sheet/Earth-system interactions and their impact on sea-level change*.
 
 **Fyke, J.G.** et al. *Quantifying a cumulative carbon-based threshold on Greenland Ice Sheet stability*.
 
@@ -19,6 +19,10 @@ Please contact me for PDF copies if required.
 Lenaerts, J., **Fyke, J.G.** et al.  *The signature of ozone forcing in recent Antarctic snowfall changes*.
 
 **Fyke, J.G.** et al.  *Countervailing regional snowfall patterns dampen Antarctic surface mass variability*.
+
+## 2017
+
+Kennedy, J. et al. (**Fyke, J.G.**, co-author).  *[LIVVkit: An extensible, python-based, land ice verification, and validation toolkit for ice sheet models](http://onlinelibrary.wiley.com/doi/10.1002/2017MS000916/full)*.  Journal of Advances in Modeling Earth Systems.
 
 ## 2016
 
