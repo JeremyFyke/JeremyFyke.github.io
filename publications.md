@@ -14,9 +14,11 @@ Please contact me for PDF copies if required.
 
 **Fyke, J.G.** et al. *Quantifying a cumulative carbon-based threshold on Greenland Ice Sheet stability*.
 
-**Fyke, J.G.** et al.  *Coupling of the Community Ice Sheet Model to the Community Earth System Model (Part 1): model description*. 
+**Fyke, J.G.** et al.  *Coupling of the Community Ice Sheet Model to the Community Earth System Model (Part 1): model description*.
 
-**Fyke, J.G.**  *Large expansion of wine-growing regions in British Columbia under future climate change*.
+Lenaerts, J., **Fyke, J.G.** et al.  *The signature of ozone forcing in recent Antarctic snowfall changes*.
+
+**Fyke, J.G.** et al.  *Countervailing regional snowfall patterns dampen Antarctic surface mass variability*.
 
 ## 2016
 
