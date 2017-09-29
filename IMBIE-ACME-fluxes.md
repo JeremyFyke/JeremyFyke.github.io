@@ -1,8 +1,4 @@
----
-layout: page
-title: IMBIE basin-scale integrated fluxes
-permalink: /IMBIE-ACME-fluxes/
----
+
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~JeremyFyke/113.embed" height="525" width="100%"></iframe>
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~JeremyFyke/115.embed" height="525" width="100%"></iframe>
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~JeremyFyke/117.embed" height="525" width="100%"></iframe>
