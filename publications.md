@@ -20,7 +20,7 @@ Lenaerts, J., **Fyke, J.G.** et al.  *The signature of ozone forcing in recent A
 
 ## Published
 
-**Fyke, J.G.** et al.  *[Basin-scale heterogeneity in Antarctic precipitation and its impact on surface mass variability](https://www.the-cryosphere.net/11/2595/2017/)*.  The Cryosphere, 2017 [Highlight Article, European Geosciences Union](https://www.egu.eu/news/highlight-articles/).
+**Fyke, J.G.** et al.  *[Basin-scale heterogeneity in Antarctic precipitation and its impact on surface mass variability](https://www.the-cryosphere.net/11/2595/2017/)*.  The Cryosphere, 2017 ([Highlight Article, European Geosciences Union](https://www.egu.eu/news/highlight-articles/)).
 
 Kennedy, J. et al. (**Fyke, J.G.**, co-author).  *[LIVVkit: An extensible, python-based, land ice verification, and validation toolkit for ice sheet models](http://onlinelibrary.wiley.com/doi/10.1002/2017MS000916/full)*.  Journal of Advances in Modeling Earth Systems.
 
