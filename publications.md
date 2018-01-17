@@ -10,15 +10,19 @@ Please contact me for PDF copies if required.
 
 ## In preparation/review
 
-**Fyke, J.G.** et al.  *Ice-sheet/Earth-system interactions and their impact on sea-level change*.
-
 **Fyke, J.G.** et al. *Quantifying a cumulative carbon-based threshold on Greenland Ice Sheet stability*.
 
 **Fyke, J.G.** et al.  *Coupling of the Community Ice Sheet Model to the Community Earth System Model (Part 1): model description*.
 
-Lenaerts, J., **Fyke, J.G.** et al.  *The signature of ozone forcing in recent Antarctic snowfall changes*.
 
-## Published
+
+## Published/in review
+
+Han, W., Ding, M., Zhang, T.,  **Fyke, J.G.** et al.  *The relation of the decreasing summer rain days at the Great Wall Station, Antarctic Peninsula*.
+
+**Fyke, J.G.** et al.  *An overview of interactions and feedbacks between ice sheets and the Earth system*.
+
+**Fyke, J.G.** et al.  *The signature of ozone forcing in recent Antarctic snowfall changes*.
 
 **Fyke, J.G.** et al.  *[Basin-scale heterogeneity in Antarctic precipitation and its impact on surface mass variability](https://www.the-cryosphere.net/11/2595/2017/)*.  The Cryosphere, 2017 ([Highlight Article, European Geosciences Union](https://www.egu.eu/news/highlight-articles/)).
 
