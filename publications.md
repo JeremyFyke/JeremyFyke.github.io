@@ -22,7 +22,7 @@ Han, W., Ding, M., Zhang, T.,  **Fyke, J.G.** et al.  *The relation of the decre
 
 **Fyke, J.G.** et al.  *The signature of ozone forcing in recent Antarctic snowfall changes*.  In review.
 
-**Fyke, J.G.** et al.  *[An overview of interactions and feedbacks between ice sheets and the Earth system](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018RG000600)*.  In press, Reviews of Geophysics.
+**Fyke, J.G.** et al.  *[An overview of interactions and feedbacks between ice sheets and the Earth system](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018RG000600)*.  Reviews of Geophysics, 2018.
 
 **Fyke, J.G.** et al.  *[Basin-scale heterogeneity in Antarctic precipitation and its impact on surface mass variability](https://www.the-cryosphere.net/11/2595/2017/)*.  The Cryosphere, 2017 ([Highlight Article, European Geosciences Union](https://www.egu.eu/news/highlight-articles/)).
 
