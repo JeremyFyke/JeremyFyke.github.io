@@ -8,7 +8,9 @@ permalink: /publications/
 
 Please contact me for PDF copies if required.
 
-## In preparation/review
+## In preparation
+
+**Fyke, J.G.** et al. *On the need for probabilistic emission scenarios for climate risk assessments*
 
 **Fyke, J.G.** et al. *Quantifying a cumulative carbon-based threshold on Greenland Ice Sheet stability*.
 
