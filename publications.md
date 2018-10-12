@@ -58,12 +58,3 @@ Lipscomb, W.H., **J.G. Fyke**, et al.  *[Implementation and initial evaluation o
 
 **Fyke, J.G.**, and A.J. Weaver.  *[The effect of potential future climate change on the marine methane hydrate stability zone](http://journals.ametsoc.org/doi/abs/10.1175/JCLI3894.1)*.  Journal of Climate, 2006 (cited in [IPCC AR5](https://www.ipcc.ch/report/ar5/wg1/)).
 
-## Climate service analyses
-
-**Fyke, J.G. and E. Olson**.  *21st Century Climate Change Over the Chama Peak Land Alliance Region*.  Prepared for the Chama Peak Land Alliance, 2017.
-
-**Fyke, J.G. and T. Wang**.  *Large expansion of wine-growing regions in British Columbia under future climate change*. 2016.
-
-**Fyke, J.G.**.  *Climate trends over British Columbia ski hills: future changes to total snowfall*.  Prepared for the Canada West Ski Area Association, 2013.
-
-
