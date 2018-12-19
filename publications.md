@@ -22,7 +22,7 @@ Please contact me for PDF copies if required.
 
 Han, W., Ding, M., Zhang, T.,  **Fyke, J.G.** et al.  *The relation of the decreasing summer rain days at the Great Wall Station, Antarctic Peninsula*.  In review.
 
-**Fyke, J.G.** et al.  *The signature of ozone forcing in recent Antarctic snowfall changes*.  Accepted, Geophysical Research Letters, 2018.
+Lenaerts, J., **Fyke, J.G.** and Medley, B.  *[The signature of ozone depletion in recent Antarctic precipitation change: A study With the Community Earth System Model](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078608)*.  Geophysical Research Letters, 2018.
 
 **Fyke, J.G.** et al.  *[An overview of interactions and feedbacks between ice sheets and the Earth system](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018RG000600)*.  Reviews of Geophysics, 2018.
 
