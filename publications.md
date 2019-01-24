@@ -12,15 +12,19 @@ Please contact me for PDF copies if required.
 
 **Fyke, J.G.** et al. *On the need for probabilistic emission scenarios for climate risk assessments.*
 
-**Fyke, J.G.** et al. *Quantifying a cumulative carbon-based threshold on Greenland Ice Sheet stability*.
+Hoffman, M.J. et al. (**Fyke, J.G.**, co-author).  *Eﬀect of subshelf melt variability on sea level rise contribution
+from Thwaites Glacier, Antarctica.*
 
 **Fyke, J.G.** et al.  *Coupling of the Community Ice Sheet Model to the Community Earth System Model (Part 1): model description*.
-
-
 
 ## Published/in review
 
 Han, W., Ding, M., Zhang, T.,  **Fyke, J.G.** et al.  *The relation of the decreasing summer rain days at the Great Wall Station, Antarctic Peninsula*.  In review.
+
+Golaz, C. et al. (**Fyke, J.G.**, co-author).  *The DOE E3SM coupled model version 1: Overview and evaluation at standard resolution*.  In review.
+
+Lipscomb, W. et al. (**Fyke, J.G.**, co-author).  *[Description and evaluation of the Community
+Ice Sheet Model (CISM) v2.1](https://www.geosci-model-dev.net/12/387/2019/gmd-12-387-2019.pdf)*.  Geoscientific Model Development, 2019.
 
 Lenaerts, J., **Fyke, J.G.** and Medley, B.  *[The signature of ozone depletion in recent Antarctic precipitation change: A study With the Community Earth System Model](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078608)*.  Geophysical Research Letters, 2018.
 
