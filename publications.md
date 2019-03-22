@@ -24,7 +24,9 @@ Muntejewerf, L., **Fyke, J.G.** et al.  *Coupling of the Community Ice Sheet Mod
 
 Han, W., Ding, M., Zhang, T.,  **Fyke, J.G.** et al.  *The relation of the decreasing summer rain days at the Great Wall Station, Antarctic Peninsula*.  In review.
 
-Golaz, C. et al. (**Fyke, J.G.**, co-author).  *The DOE E3SM coupled model version 1: Overview and evaluation at standard resolution*.  In review.
+Golaz, C. et al. (**Fyke, J.G.**, co-author).  *[The DOE E3SM coupled model version 1: Overview and evaluation at standard resolution](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018MS001603)*.  Journal of Advances in Modeling Earth Systems, 2019.
+
+Kennedy, J. et al.(**Fyke, J.G.**, co-author).  *[LIVVkit 2.1: automated and extensible ice sheet model validation](https://www.geosci-model-dev.net/12/1067/2019/)*.  Geoscientific Model Development, 2019.
 
 Lipscomb, W. et al. (**Fyke, J.G.**, co-author).  *[Description and evaluation of the Community
 Ice Sheet Model (CISM) v2.1](https://www.geosci-model-dev.net/12/387/2019/gmd-12-387-2019.pdf)*.  Geoscientific Model Development, 2019.
