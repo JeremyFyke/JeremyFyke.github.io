@@ -10,8 +10,6 @@ Please contact me for PDF copies if required.
 
 ## In preparation
 
-Wang, H., **Fyke, J.G.** et al.  *Influence of sea ice anomalies on Antarctic precipitation using source attribution.*
-
 **Fyke, J.G.** et al. *On the need for probabilistic emission scenarios for climate risk assessments.*
 
 Hoffman, M.J. et al. (**Fyke, J.G.**, co-author).  *Eﬀect of subshelf melt variability on sea level rise contribution
@@ -19,8 +17,9 @@ from Thwaites Glacier, Antarctica.*
 
 Muntejewerf, L., **Fyke, J.G.** et al.  *Coupling of the Community Ice Sheet Model to the Community Earth System Model: model description*.
 
-
 ## Published/in review
+
+Wang, H., **Fyke, J.G.** et al.  *Influence of sea ice anomalies on Antarctic precipitation using source attribution.*  In review.
 
 Han, W., Ding, M., Zhang, T.,  **Fyke, J.G.** et al.  *The relation of the decreasing summer rain days at the Great Wall Station, Antarctic Peninsula*.  In review.
 
